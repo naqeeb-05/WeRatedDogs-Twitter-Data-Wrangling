@@ -2,12 +2,12 @@
 
 ## Repositry File Structure
 
-There are in total seven files in the repositry:<br>
+There are seven files in the repositry:<br>
 
-• act_report.pdf - this file contains a concise report mentioning important observations. <br>
-• image-predictions.tsv - predicted dog breed based on the image (file provided by Udacity) <br>
+• act_report.pdf - this file contains a concise summary of the important observations. <br>
+• image-predictions.tsv - dog breed prediction using neural networks (file provided by Udacity) <br>
 • tweet_json.txt - this text file contains all the downloaded tweets <br>
-• twitter-archive-enhanced.csv - this csv file contains uncleaned/messy data such as 'tweet id', timestamp etc <br>
+• twitter-archive-enhanced.csv - uncleaned/messy data contains information such as 'tweet id', timestamp etc <br>
 • twitter_archive_master.csv - this master file contains the final cleaned data <br>
 • wrangle_act.html - the python code which performs the data wrangling process<br>
 • wrangle_report.html - documentation of the data wrangling efforts<br>
