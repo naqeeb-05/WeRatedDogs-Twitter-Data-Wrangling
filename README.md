@@ -1,6 +1,6 @@
 ## Project Description:
 
-The goal of this project was to carry out carry out data wrangling of the WeRatedDogs twitter data. For this data was sourced for three different places and combined into a single file called twitter_archive_master.csv. The data had many quality and tidness issues such as variables with wrong datatypes, missing and repeated values. All these issues were addressed and data visualization was carried out to summarize key insights.
+The goal of this project was to carry out carry out data wrangling of the WeRatedDogs twitter data. For this data was sourced for three different places and combined into a single file called twitter_archive_master.csv. The data had many quality and tidness issues such as variables with wrong datatypes, missing and repeated values. Some of these issues were addressed and data visualization was carried out to summarize some of the key insights.
 
 
 ## Repositry File Structure
